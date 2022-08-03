@@ -1,0 +1,2 @@
+# KotlinClient
+コード内に記述したIPアドレスにByte列かStringをPythonのサーバーに送信するアプリ，ポート番号はアプリ内で指定
